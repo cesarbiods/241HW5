@@ -1,0 +1,20 @@
+<holidays>
+    <month name="January">
+        <holiday day="1" name="New Year's Day">
+            <federal value="yes"/>
+            <oswego value="yes"/>
+        </holiday>
+        <holiday day="18" name="Martin Luther King Day">
+            <oswego value="yes"/>
+            <federal value="yes"/>
+        </holiday>
+    </month>
+    <month name="February">
+        <holiday day="2" name="Groundhog Day"/>
+        <holiday day="14" name="Valentine's Day"/>
+        <holiday day="15" name="President's Day">
+            <federal value="yes"/>
+            <oswego value="no"/>
+        </holiday>
+    </month>
+</holidays>
